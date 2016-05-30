@@ -1,0 +1,26 @@
+{
+  "name": "{{userId}}-{{projectName}}",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Обучающий проект «{{projectName}}» от HTML Academy",
+  "author": "{{userName}}",
+  "repository": {
+    "type": "git",
+    "url": "{{gitUrl}}"
+  },
+  "bugs": {
+    "url": "{{bugsUrl}}"
+  },
+  "homepage": "{{homepage}}",
+  "devDependencies": {
+    "eslint": "^1.8.0",
+    "http-server": "^0.8.5"
+  },
+  "scripts": {
+    "gosha": "make",
+    "test": "eslint js/"
+  },
+  "engines": {
+    "node": "^5.0.0"
+  }
+}

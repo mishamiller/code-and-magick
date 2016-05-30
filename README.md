@@ -1,4 +1,4 @@
-# Проект «{{projectTitle}}»
+# Проект «Code and Magick»
 
 * Студент: [cosmmiike](https://htmlacademy.ru/profile/id186531).
 * Наставник: `Неизвестно`.
